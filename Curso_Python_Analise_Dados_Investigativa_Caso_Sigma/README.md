@@ -12,14 +12,37 @@ Este pacote foi criado para acompanhar a apostila e o **Caso Sigma**. Todos os n
 - roteiro de aulas e testes básicos.
 
 ## Instalação
+
+### GitHub Codespaces
+
+1. Abra o repositório no GitHub e escolha **Code > Codespaces > Create codespace on main**.
+2. Aguarde a criação do ambiente. O Codespace instala automaticamente as dependências e registra o kernel `Python (Curso Sigma)`.
+3. Abra um notebook e selecione `Python (Curso Sigma)` no seletor de kernel no canto superior direito.
+4. Execute as células na ordem. Não use um kernel global diferente do kernel do curso.
+
+### VS Code local
+
+Na raiz do repositório, execute:
+
 ```bash
-python -m venv .venv
+python3.11 -m venv .venv
 # Windows:
 .venv\Scripts\activate
 # Linux/macOS:
 source .venv/bin/activate
-pip install -r requirements.txt
+python -m pip install --upgrade pip
+python -m pip install -r Curso_Python_Analise_Dados_Investigativa_Caso_Sigma/requirements.txt
+python -m ipykernel install --user --name curso-python-investigativa --display-name "Python (Curso Sigma)"
 jupyter notebook
+```
+
+No VS Code, selecione o interpretador `.venv/bin/python` (ou `.venv\\Scripts\\python.exe` no Windows) e, em cada notebook, selecione o kernel `Python (Curso Sigma)`.
+
+Se o computador não tiver Python 3.11, use o arquivo `environment.yml` com Conda/Mamba:
+
+```bash
+conda env create -f Curso_Python_Analise_Dados_Investigativa_Caso_Sigma/environment.yml
+conda activate curso-python-investigativa
 ```
 
 ## Ordem sugerida

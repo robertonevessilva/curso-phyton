@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import networkx as nx
 
-BASE=Path(__file__).resolve().parents[1]
+BASE=Path(__file__).resolve().parent.parent
 dados=BASE/"dados"/"bases"
 
 t=pd.read_csv(dados/"transacoes.csv")
@@ -14,7 +14,7 @@ inv=pd.read_csv(dados/"investigados.csv",dtype={"cpf":str})
 v=pd.read_csv(dados/"veiculos.csv",dtype={"cpf_proprietario":str})
 cv=inv.merge(v,left_on="cpf",right_on="cpf_proprietario",how="inner")
 print("\nEx. 10 - investigados com mais de um veículo")
-print(cv.groupby(["cpf","nome_x"]).size().loc[lambda s:s>1])
+print(cv.groupby(["cpf","nome"]).size().loc[lambda s:s>1])
 
 lig=pd.read_csv(dados/"ligacoes.csv")
 G=nx.from_pandas_edgelist(lig,"origem","destino")

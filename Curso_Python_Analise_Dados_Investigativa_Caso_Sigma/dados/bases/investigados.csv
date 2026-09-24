@@ -1,0 +1,13 @@
+pessoa_id,nome,cpf,telefone,bairro,prioridade
+P001,Aline Monteiro,111.222.333-40,(81) 90001-0001,Madalena,ALTA
+P002,Bruno Tavares,222.333.444-51,(81) 90001-0002,Madalena,MÉDIA
+P003,Carla Nogueira,333.444.555-62,(81) 90001-0003,Casa Forte,MÉDIA
+P004,Diego Vasconcelos,444.555.666-73,(81) 90001-0004,Madalena,ALTA
+P005,Elisa Barros,555.666.777-84,(81) 90001-0005,Madalena,BAIXA
+P006,Fábio Leal,666.777.888-95,(81) 90001-0006,Pina,MÉDIA
+P007,Gabriela Ramos,777.888.999-06,(81) 90001-0007,Imbiribeira,BAIXA
+P008,Henrique Paiva,888.999.000-17,(81) 90001-0008,Casa Forte,ALTA
+P009,Isabela Dantas,999.000.111-28,(81) 90001-0009,Casa Forte,MÉDIA
+P010,Jonas Melo,101.202.303-49,(81) 90001-0010,Boa Vista,BAIXA
+P011,Karen Freitas,202.303.404-50,(81) 90001-0011,Madalena,BAIXA
+P012,Lucas Gouveia,303.404.505-61,(81) 90001-0012,Imbiribeira,MÉDIA

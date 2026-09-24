@@ -1,0 +1,28 @@
+{
+  "mensagens": [
+    {
+      "id": 1,
+      "remetente": "Aline",
+      "destinatario": "Bruno",
+      "texto": "Encontrar no depósito em 15/03/2025. Falar com (81) 90001-0004."
+    },
+    {
+      "id": 2,
+      "remetente": "Bruno",
+      "destinatario": "Aline",
+      "texto": "A nota da ALFA ficou pronta. contato: alfa.sigma@exemplo.org"
+    },
+    {
+      "id": 3,
+      "remetente": "Diego",
+      "destinatario": "Henrique",
+      "texto": "Veículo ABC1D23 estará no local às 20h."
+    },
+    {
+      "id": 4,
+      "remetente": "Henrique",
+      "destinatario": "Diego",
+      "texto": "Processo 0001234-56.2025.8.17.0001 mencionado no relatório."
+    }
+  ]
+}

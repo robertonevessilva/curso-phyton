@@ -1,0 +1,43 @@
+aula,modulo,titulo,objetivo,formato
+1.1,01 MODULO FUNDAMENTOS,O analista investigativo e a estação de trabalho,Inspecionar arquivos e discutir reprodutibilidade.,notebook + prática + desafio
+1.2,01 MODULO FUNDAMENTOS,Instalando e configurando o ambiente,"Validar Python, bibliotecas e pasta de trabalho.",notebook + prática + desafio
+1.3,01 MODULO FUNDAMENTOS,Variáveis e tipos de dados,"Trabalhar com str, int, float, bool, listas e dicionários.",notebook + prática + desafio
+1.4,01 MODULO FUNDAMENTOS,Estruturas condicionais,Classificar transações por critérios.,notebook + prática + desafio
+1.5,01 MODULO FUNDAMENTOS,Laços de repetição,Percorrer listas de evidências automaticamente.,notebook + prática + desafio
+1.6,01 MODULO FUNDAMENTOS,"Listas, dicionários e outras estruturas",Modelar registros investigativos fictícios.,notebook + prática + desafio
+1.7,01 MODULO FUNDAMENTOS,Funções,Organizar e reaproveitar regras.,notebook + prática + desafio
+1.8,01 MODULO FUNDAMENTOS,Manipulação de arquivos e pastas,Listar e criar pastas com pathlib.,notebook + prática + desafio
+1.9,01 MODULO FUNDAMENTOS,Integridade de arquivos: hash,Calcular SHA-256 e comparar integridade.,notebook + prática + desafio
+1.10,01 MODULO FUNDAMENTOS,Projeto guiado: Organizador de Evidências,Executar e adaptar o projeto do módulo.,notebook + prática + desafio
+2.1,02 MODULO MINERACAO,Dados estruturados x não estruturados,Comparar texto livre e tabela.,notebook + prática + desafio
+2.2,02 MODULO MINERACAO,"Leitura e escrita de TXT, CSV e JSON",Ler os formatos centrais do curso.,notebook + prática + desafio
+2.3,02 MODULO MINERACAO,Limpeza e padronização de textos,Normalizar espaços e capitalização.,notebook + prática + desafio
+2.4,02 MODULO MINERACAO,Expressões regulares - parte 1,"Extrair CPF, CNPJ, telefone e e-mail.",notebook + prática + desafio
+2.5,02 MODULO MINERACAO,Expressões regulares - parte 2,"Extrair placas, processos e datas.",notebook + prática + desafio
+2.6,02 MODULO MINERACAO,Fontes abertas e boas práticas,"Registrar fonte, data/hora e limitações.",notebook + prática + desafio
+2.7,02 MODULO MINERACAO,Projeto prático: Extrator Universal,Executar extração em TXT e PDF.,notebook + prática + desafio
+3.1,03 MODULO PANDAS,Introdução ao Pandas,Criar e inspecionar DataFrames.,notebook + prática + desafio
+3.2,03 MODULO PANDAS,Importação de grandes datasets,Ler CSV definindo tipos.,notebook + prática + desafio
+3.3,03 MODULO PANDAS,Filtros e consultas,"Combinar condições de valor, texto e contraparte.",notebook + prática + desafio
+3.4,03 MODULO PANDAS,Nulos e duplicados,Auditar e tratar problemas sem descarte silencioso.,notebook + prática + desafio
+3.5,03 MODULO PANDAS,Cruzamento básico,Usar merge por CPF.,notebook + prática + desafio
+3.6,03 MODULO PANDAS,Cruzamento avançado: ERB e geolocalização,Buscar coincidências por ERB e janela temporal.,notebook + prática + desafio
+3.7,03 MODULO PANDAS,Agrupamento e agregação,Resumir valores e frequências.,notebook + prática + desafio
+3.8,03 MODULO PANDAS,"Transformação: apply, map e pivot",Criar classificações e tabelas dinâmicas.,notebook + prática + desafio
+3.9,03 MODULO PANDAS,Análise temporal,Aplicar resample e rolling.,notebook + prática + desafio
+3.10,03 MODULO PANDAS,Projeto prático: Painel Analítico,Gerar painel e anomalias.,notebook + prática + desafio
+4.1,04 MODULO VISUALIZACAO,Fundamentos de visualização,Escolher gráficos conforme o tipo de pergunta.,notebook + prática + desafio
+4.2,04 MODULO VISUALIZACAO,Gráficos estatísticos com Matplotlib,Construir gráfico de barras e linha.,notebook + prática + desafio
+4.3,04 MODULO VISUALIZACAO,Folium - básico,Plotar pontos de interesse.,notebook + prática + desafio
+4.4,04 MODULO VISUALIZACAO,Folium - mapas de calor,Visualizar concentração de ocorrências.,notebook + prática + desafio
+4.5,04 MODULO VISUALIZACAO,NetworkX - básico,Construir rede a partir de ligações.,notebook + prática + desafio
+4.6,04 MODULO VISUALIZACAO,Centralidade e subgrupos,"Calcular hubs, pontes e comunidades.",notebook + prática + desafio
+4.7,04 MODULO VISUALIZACAO,Dashboards interativos em HTML,Entender composição de HTML com mapas e imagens.,notebook + prática + desafio
+4.8,04 MODULO VISUALIZACAO,Projeto prático: Relatório Visual Interativo,Executar o projeto visual completo.,notebook + prática + desafio
+5.1,05 MODULO OPERACAO SIGMA,Apresentação do Caso Sigma,"Conhecer fontes, hipóteses e limites do caso.",notebook + prática + desafio
+5.2,05 MODULO OPERACAO SIGMA,Planejamento da análise e pipeline,"Desenhar etapas de extração, análise e comunicação.",notebook + prática + desafio
+5.3,05 MODULO OPERACAO SIGMA,Execução - mineração,Aplicar o Extrator Universal ao caso completo.,notebook + prática + desafio
+5.4,05 MODULO OPERACAO SIGMA,Execução - análise com Pandas,"Cruzar financeiro, societário, telefone e geolocalização.",notebook + prática + desafio
+5.5,05 MODULO OPERACAO SIGMA,Execução - visualização,"Selecionar achados confirmados para mapas, rede e gráficos.",notebook + prática + desafio
+5.6,05 MODULO OPERACAO SIGMA,Consolidação do relatório final,"Estruturar objeto, metodologia, achados, limitações e anexos.",notebook + prática + desafio
+5.7,05 MODULO OPERACAO SIGMA,Apresentação e defesa da análise,Preparar defesa técnica de até 15 minutos.,notebook + prática + desafio

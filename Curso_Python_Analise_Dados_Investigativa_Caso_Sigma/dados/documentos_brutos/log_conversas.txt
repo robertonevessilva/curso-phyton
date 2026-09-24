@@ -1,0 +1,3 @@
+2025-05-02 08:11 origem=(81) 90001-0008 destino=(81) 90001-0004 texto='reunião na ERB4521'
+2025-05-02 08:13 origem=(81) 90001-0004 destino=(81) 90001-0001 texto='confirmado'
+2025-05-02 08:15 origem=(81) 90001-0001 destino=(81) 90001-0002 texto='levar docs da ALFA'

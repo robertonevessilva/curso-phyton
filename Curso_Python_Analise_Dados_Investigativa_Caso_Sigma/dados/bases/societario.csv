@@ -1,0 +1,9 @@
+empresa_id,razao_social,cnpj,cpf,nome,vinculo
+E001,ALFA COMÉRCIO LTDA,12.345.678/0001-90,111.222.333-40,Aline Monteiro,sócio-administrador
+E002,BETA SERVIÇOS ME,23.456.789/0001-01,444.555.666-73,Diego Vasconcelos,sócio-administrador
+E003,GAMA LOGÍSTICA LTDA,34.567.890/0001-12,888.999.000-17,Henrique Paiva,sócio-administrador
+E004,DELTA CONSULTORIA LTDA,45.678.901/0001-23,333.444.555-62,Carla Nogueira,sócio-administrador
+E005,ÔMEGA EVENTOS ME,56.789.012/0001-34,666.777.888-95,Fábio Leal,sócio-administrador
+E006,SIGMA PARTICIPAÇÕES LTDA,67.890.123/0001-45,222.333.444-51,Bruno Tavares,sócio-administrador
+E001,ALFA COMÉRCIO LTDA,12.345.678/0001-90,222.333.444-51,Bruno Tavares,procurador
+E003,GAMA LOGÍSTICA LTDA,34.567.890/0001-12,444.555.666-73,Diego Vasconcelos,procurador

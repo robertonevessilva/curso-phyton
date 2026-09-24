@@ -1,0 +1,9 @@
+veiculo_id,placa,tipo,cpf_proprietario,proprietario
+V001,ABC1D23,Automóvel,111.222.333-40,Aline Monteiro
+V002,QWE2R34,SUV,111.222.333-40,Aline Monteiro
+V003,RTY3T45,Motocicleta,444.555.666-73,Diego Vasconcelos
+V004,UIO4P56,Automóvel,888.999.000-17,Henrique Paiva
+V005,ASD5F67,Utilitário,888.999.000-17,Henrique Paiva
+V006,FGH6J78,Automóvel,333.444.555-62,Carla Nogueira
+V007,JKL7K89,Motocicleta,666.777.888-95,Fábio Leal
+V008,ZXC8V90,Automóvel,101.202.303-49,Jonas Melo
